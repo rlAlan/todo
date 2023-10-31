@@ -143,6 +143,7 @@ impl Todo{
     }
 }
 
+// initial work just using bits of it now to slowly add gui to programf
 // We enter the alternative screen
 // enable raw mode
 // setup the backend and terminal then clear screen
